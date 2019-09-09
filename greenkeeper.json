@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "AnimatedBorderMenus/StorytellingMap/package.json",
+        "package.json",
+        "spring-loaders/package.json"
+      ]
+    }
+  }
+}
